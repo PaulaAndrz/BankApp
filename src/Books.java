@@ -18,5 +18,10 @@ public class Books {
         this.numberOfPages = numberOfPages;
     }
 
+    public void setAuthor(String author){
+        this.author = author;
 
+
+
+    }
 }

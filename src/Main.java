@@ -10,6 +10,9 @@ public class Main {
         book1.setNumberOfPages(3);
         System.out.println(book1.bookDetail());
 
+        book1.setAuthor("SKing");
+        System.out.println(book1.bookDetail());
+
 
 
 
